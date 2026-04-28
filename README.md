@@ -21,7 +21,7 @@ Computer Science student at BITS Pilani, graduating in 2026, with a strong inter
 
 ### Web Development
 - Built RapidWebStudio demo sites for clinics, salons, gyms, and hospitality businesses
-- Developed the live website for Somnath Transport Service
+- Developed and launched a live website for a transport and logistics business client
 
 ## Tech I Use
 - Python
@@ -34,7 +34,6 @@ Computer Science student at BITS Pilani, graduating in 2026, with a strong inter
 ## Links
 - [n8n Automation Workflows](https://github.com/ranveerawasth/n8n-automation-workflows)
 - [RapidWebStudio](https://rapidwebstudio.in)
-- [Somnath Transport Service](https://somnathtransportservice.com)
 
 ## Looking For
 Software engineering internships where I can contribute, learn from strong teams, and keep building practical systems.

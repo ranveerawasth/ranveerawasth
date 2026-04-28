@@ -1,43 +1,40 @@
-# Hi, I'm Ranveer Awasthi! 👋
+# Hi, I'm Ranveer Awasthi
 
-### 🌟 About Me
-- 🎓 **Software Engineering student** at BITS Pilani (Expected Graduation: 2026)
-- 🔍 Passionate about **web development**, **game design**, and **AI integration**
-- 🛠️ Continuously learning and building innovative projects
+Computer Science student at BITS Pilani, graduating in 2026, with a strong interest in software engineering, automation, and building practical products.
 
-### 💼 Experience
-- **Intern at Somnath Road Transport (Sep 2023 - Present)**  
-  - Developed user-friendly features for the company's website  
-  - Implemented modern responsive design and debugging techniques  
-  - Collaborated with senior developers on cutting-edge projects  
+## Current Focus
+- Building workflow automation projects with Python, JavaScript, and n8n
+- Developing RapidWebStudio, a website initiative for mobile-optimized business websites
+- Strengthening problem solving, data structures, web development, and practical system design
 
-### 💻 Skills
-- **Languages & Frameworks:** JavaScript, HTML, CSS, SQL, Python, C/C++, Express.js, React.js, Node.js, MongoDB  
-- **Other Skills:** Data structures, algorithms, machine learning, NLP  
-- **Soft Skills:** Adaptable, creative, decisive, resilient, and excellent communication skills  
+## Selected Work
 
-### 🏗️ Projects
-1. **Platformer Games in Unity**  
-   - Created two engaging games with physics-based movement and advanced AI  
-   - Optimized user interfaces for enhanced player experience  
+### AI Question Paper and Answer Key Generator
+- Built an n8n and Telegram workflow that converts natural-language exam requests into board-aware question papers and answer keys
+- Added syllabus lookup, structured output handling, PDF generation, and document delivery through Telegram
 
-2. **Task Management System**  
-   - Built a dynamic system for task creation, editing, and categorization  
-   - Used JavaScript, HTML, CSS, and Node.js for development  
+### Automated Business Lead Enrichment System
+- Built a workflow that searches local businesses, enriches leads with contact details, and stores structured results in Google Sheets
 
-3. **AI-Powered Chatbot**  
-   - Designed a chatbot using NLP techniques for customer support  
-   - Implemented machine learning algorithms to improve response accuracy  
+### AI-Powered Executive Newsletter Automation
+- Built a scheduled workflow that turns AI and robotics news into a structured executive brief and sends it by email
 
-### 🌱 What I'm Learning
-- Exploring advanced machine learning concepts and enhancing web development expertise.
+### Web Development
+- Built RapidWebStudio demo sites for clinics, salons, gyms, and hospitality businesses
+- Developed the live website for Somnath Transport Service
 
-### 📫 How to Reach Me
-- 📧 **Email:** awasthiranveer6@gmail.com  
-- 📞 **Phone:** +91 8668582490  
+## Tech I Use
+- Python
+- JavaScript
+- HTML/CSS
+- n8n
+- Google Sheets
+- Git and GitHub
 
-### 🎉 Fun Fact
-I enjoy participating in hackathons and leading coding study groups for my peers!
+## Links
+- [n8n Automation Workflows](https://github.com/ranveerawasth/n8n-automation-workflows)
+- [RapidWebStudio](https://rapidwebstudio.in)
+- [Somnath Transport Service](https://somnathtransportservice.com)
 
----
-🌟 *Feel free to explore my repositories and connect for collaborations!*
+## Looking For
+Software engineering internships where I can contribute, learn from strong teams, and keep building practical systems.

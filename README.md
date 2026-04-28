@@ -1,6 +1,6 @@
 # Hi, I'm Ranveer Awasthi
 
-Computer Science student at BITS Pilani, graduating in 2026, with a strong interest in software engineering, automation, and building practical products.
+Computer Science student at BITS Pilani, graduating in 2027, with a strong interest in software engineering, automation, and building practical products.
 
 ## Current Focus
 - Building workflow automation projects with Python, JavaScript, and n8n
